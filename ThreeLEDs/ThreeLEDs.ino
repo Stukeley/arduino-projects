@@ -2,7 +2,7 @@
 // Sequentially turns on and off three LEDs.
 // More info can be found here: github.com/Stukeley/arduino-projects
 
-// LED input pins
+// LED pins
 int LED1 = 13;
 int LED2 = 12;
 int LED3 = 11;
