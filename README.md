@@ -12,6 +12,3 @@ Necessary schematics provided in respective folders.
 2. ButtonLED - Pressing the button turns the LED on.
 3. CapacitorValue - Measures the capacitance of a capacitor; currently not working.
 4. ArduinoTwitchBot - for more info, visit https://github.com/Stukeley/ArduinoTwitchBot
-
-## Upcoming project ideas:
-1. Twitch Chat alert listener - flash LEDs when something happens in a Twitch chat (eg. somebody sends a message, follows the channel, etc).
